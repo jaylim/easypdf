@@ -4,7 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "f46146236c1a408d4387a701869b89cf",
+    "hash": "5db2ef31b4ed106414df62e355c0604a",
+    "content-hash": "0e60099c7c5c60ad00fab1ba7e95415e",
     "packages": [
         {
             "name": "pentajeu/utils",
@@ -40,17 +41,17 @@
             "time": "2015-08-03 11:02:47"
         },
         {
-            "name": "tecnick.com/tcpdf",
-            "version": "6.2.10",
+            "name": "tecnickcom/tcpdf",
+            "version": "6.2.12",
             "source": {
                 "type": "git",
                 "url": "https://github.com/tecnickcom/TCPDF.git",
-                "reference": "25394f75d63a46d8c60b940e5e8519369b5964eb"
+                "reference": "2f732eaa91b5665274689b1d40b285a7bacdc37f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/tecnickcom/TCPDF/zipball/25394f75d63a46d8c60b940e5e8519369b5964eb",
-                "reference": "25394f75d63a46d8c60b940e5e8519369b5964eb",
+                "url": "https://api.github.com/repos/tecnickcom/TCPDF/zipball/2f732eaa91b5665274689b1d40b285a7bacdc37f",
+                "reference": "2f732eaa91b5665274689b1d40b285a7bacdc37f",
                 "shasum": ""
             },
             "require": {
@@ -100,7 +101,7 @@
                 "pdf417",
                 "qrcode"
             ],
-            "time": "2015-07-28 15:28:45"
+            "time": "2015-09-12 10:08:34"
         }
     ],
     "packages-dev": [],
